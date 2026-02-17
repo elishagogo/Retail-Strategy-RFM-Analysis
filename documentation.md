@@ -1,9 +1,9 @@
 # Business Requirements Document (BRD)
 
 ## Project Overview
-**Project Name:** Customer Lifecycle & Revenue Optimization (Online Retail II)
-**Date:** February 2026
-**Business Analyst:** Elisha Lee
+**Project Name:** Customer Lifecycle & Revenue Optimization (Online Retail II)\
+**Date:** February 2026\
+**Business Analyst:** Elisha Lee\
 **Version:** 1.0
 
 ## Executive Summary
@@ -80,3 +80,4 @@ targeted retention.
 | Outliers | Medium | High | Identify and isolate bulk oders that skew averages |
 | Missing Identity | High | Low | Drop rows without Cusomer ID since they cannot be used for segmentation |
 | Currency Inconsistency | Low | Low | The dataset is in GBP for all transactions |
+
